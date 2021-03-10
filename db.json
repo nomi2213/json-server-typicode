@@ -1,0 +1,14 @@
+{
+    "blocks": [
+        {
+            "type": 2,
+            "id": "id2",
+            "block": "<section id=\"company-logo\" class=\"block-2\">block-2</section>"
+        },
+        {
+            "type": 1,
+            "id": "id1",
+            "block": "<section id=\"company-logo\" class=\"block-1\">block-1</section>"
+        }
+    ]
+}
