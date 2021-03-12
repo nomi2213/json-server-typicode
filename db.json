@@ -3,12 +3,12 @@
         {
             "type": "2",
             "id": "id2",
-            "block": "<section id=\"id2\" data-block-type="2" class=\"block-2\">block-2</section>"
+            "block": "<section id=\"id2\" data-block-type=\"2\" class=\"block-2\">block-2</section>"
         },
         {
             "type": "1",
             "id": "id1",
-            "block": "<section id=\"id1\" data-block-type="1" class=\"block-1\">block-1</section>"
+            "block": "<section id=\"id1\" data-block-type=\"1\" class=\"block-1\">block-1</section>"
         }
     ]
 }
